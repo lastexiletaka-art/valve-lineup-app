@@ -1,6 +1,6 @@
 # 配管ラインナップ管理アプリ v4
 
-今回添付された配管図をそのまま `lineup.png` として使用しています。
+今回添付された配管図をそのまま `画像は index.html に埋め込み済み` として使用しています。
 
 ## v4変更点
 - 元画像を今回添付された画像へ差し替え。
@@ -11,4 +11,4 @@
 - ラインナップ保存・適用・照合・初期状態保存・JSONバックアップ機能を継承。
 
 ## GitHub Pages
-`index.html` と `lineup.png` をリポジトリ直下へアップロードし、Settings → Pages → Deploy from a branch → main / root で公開できます。
+`index.html` と `画像は index.html に埋め込み済み` をリポジトリ直下へアップロードし、Settings → Pages → Deploy from a branch → main / root で公開できます。
